@@ -9,7 +9,7 @@
 - ```APP_PORT``` - Application port. Default is 3000
 - ```API_KEY``` - Key to fetch data from [http://www.omdbapi.com/](http://www.omdbapi.com/)
 
-3. Download and install docker [https://store.docker.com/editions/community/docker-ce..](https://store.docker.com/editions/community/docker-ce..)
+3. Download and install docker [https://store.docker.com/editions/community/docker-ce-desktop-windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
 4. Run
 ```bash
 docker compose up
